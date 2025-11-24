@@ -1,0 +1,22 @@
+lib/
+├── main.dart
+├── models/
+│   ├── book_model.dart
+│   └── user_model.dart
+├── services/
+│   ├── api_service.dart
+│   ├── firebase_service.dart
+│   └── auth_service.dart
+├── screens/
+│   ├── home_screen.dart
+│   ├── search_screen.dart
+│   ├── book_detail_screen.dart
+│   ├── profile_screen.dart
+│   └── login_screen.dart
+├── widgets/
+│   ├── animated_book_card.dart
+│   ├── book_shelf.dart
+│   ├── reading_progress.dart
+│   └── shimmer_effect.dart
+└── utils/
+    └── constants.dart
