@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424859358210",
+    "project_id": "book-verse-88588",
+    "storage_bucket": "book-verse-88588.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424859358210:android:5f59b3452417487a9e831b",
+        "android_client_info": {
+          "package_name": "com.rudra.bookverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyB9Y4c2g365sj3isblF0KzBJdu15eFRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
